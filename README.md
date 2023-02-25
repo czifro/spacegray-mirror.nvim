@@ -38,7 +38,7 @@ You can tweak Spacegray by enabling the following disabled options:
 
 If you use Vim 8 or better, simply copy and paste:
 
-    git clone git://github.com/ajh17/Spacegray.vim ~/.vim/pack/vendor/start/Spacegray
+    git clone https://git.sr.ht/~ackyshake/spacegray.vim ~/.vim/pack/vendor/start/Spacegray
 
 Then in your ~/.vimrc, add this line:
 
@@ -88,7 +88,8 @@ gnome-terminal should then immediately reflect Spacegray colors.
 
 ### Xcode
 
-Use Xcode? Try out [Spacegray-Xcode](https://github.com/ajh17/spacegray-xcode).
+Use Xcode? Try out
+[Spacegray-Xcode](https://git.sr.ht/~ackyshake/spacegray-xcode).
 
 ### Xresources
 
